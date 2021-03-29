@@ -1,1 +1,7 @@
-abc
+{
+  "name": "SADA_POOL",
+  "ticker": "SADA",
+  "description": "SUPER ADA stake pool",
+  "homepage": "https://sada-pool.github.io/SADA-website/",
+  "nonce": "1616993015"
+}
