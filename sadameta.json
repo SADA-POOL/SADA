@@ -3,5 +3,6 @@
   "ticker": "SADA",
   "description": "SUPER ADA stake pool",
   "homepage": "https://sada-pool.github.io/SADA-website/",
-  "nonce": "1616993015"
+  "nonce": "1616993015",
+  "extended": "https://sada-pool.github.io/SADA-website/extended.json"
 }
